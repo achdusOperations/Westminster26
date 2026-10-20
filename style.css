@@ -337,7 +337,10 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
         
     margin-left:2px !important;
     }
-
+/*round tag*/
+.team-members .team-users{
+    border-radius: 25px !important;
+}
  /*name of team in donor tag*/
  .team-up span{
     color:#8392e3 !important;
