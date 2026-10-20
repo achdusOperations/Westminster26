@@ -378,11 +378,11 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
 /*teams*/
 
 /*donor,teams and about*/
-.donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-link{
+ .donar-section .nav-tabs .nav-link{
     color: #fff !important;;
     
 }
-/*
+
 .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-item:hover .nav-link{
     border-bottom: 3px solid #fff !important;
 }
@@ -397,7 +397,7 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
     }
 
  /*name of team in donor tag*/
- /*.team-up span{
+ .team-up span{
     color:#8392e3 !important;
 }
  /*be the first button*/
@@ -409,7 +409,7 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
 }
 
 /*round search and sort by*/
-/*.right-filters-data .sort-by-f .form-control.custom-select,  .right-filters-data .input-group, .right-filters-data .input-group .input-group-addon{
+.right-filters-data .sort-by-f .form-control.custom-select,  .right-filters-data .input-group, .right-filters-data .input-group .input-group-addon{
 border-radius:25px !important;
 }
 input.form-control.filter-search.active{    
