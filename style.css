@@ -241,7 +241,7 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
 
     .fs-full-donate-form .fs-donate-body .fs-donate-section .fs-payment-method .radio-inline span{
         color:#F27613 !important;
-        border:#F27613 !important;
+        border:1px solid #F27613 !important;
     }
     /*amount boxes when selected*/
     /*.fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.fs-other label.selected, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.selected .fs-option-name>div {
