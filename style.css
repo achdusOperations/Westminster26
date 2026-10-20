@@ -255,11 +255,14 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
     
     }
     /*footer*/
+    @media screen and (min-width: 700px) {
     .fs-footer {
         background-image: 
    url("https://chabadwestminster.com/media/images/1390/upiX13908126.png");
    background-size:100% 100%;
+   height: 21em !important;
     }
+}
     @media screen and (max-width: 700px) {
         .fs-footer {
             background-image: 
@@ -381,6 +384,7 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
 
 .donar-section .nav-tabs .nav-item.active .nav-link{
     color:#40120D !important;
+    border-bottom: 3px solid #40120D !important;
 }
 .donar-section .nav-tabs .nav-link{
     color: #fff !important;
