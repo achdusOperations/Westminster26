@@ -232,7 +232,8 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
     /*payment info buttons*/
 
     .fs-full-donate-form .fs-donate-body .fs-donate-section .radio input:checked ~ span, .fs-full-donate-form .fs-donate-body .fs-donate-section .radio-inline input:checked ~ span{
-        background: #F27613;
+        background: #F27613 !important;
+        color:#FFF !important;
     }
     .fs-full-donate-form .fs-donate-body .fs-donate-section .fs-payment-method .radio-inline input:checked + span:before{
         border-top: 10px solid #F27613 !important;
