@@ -386,9 +386,6 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
     color: #fff !important;
     
 }
-.donar-section .nav-tabs .nav-item.active{
-    color:#40120D !important
-}
 
  .donar-section .nav-tabs .nav-item:hover .nav-link{
     border-bottom: 3px solid #fff !important;
