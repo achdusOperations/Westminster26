@@ -376,7 +376,15 @@ a.view-btn.btn.donate-btns.js-team-open-donate.common-donate, a.view-btn.btn.don
     background: #F27613;
 }
 
-
+/*text*/
+.team-members .team-users .donor-team span, .progress-flex .S-label span{
+    color:#40120D !important;
+}
+/*title*/
+.team-members .team-users .user-name, .team-members .team-users .user-name a
+{
+    color:#40120D !important;
+}
 
 /*team page*/
 
@@ -390,6 +398,37 @@ a.view-btn.btn.donate-btns.js-team-open-donate.common-donate, a.view-btn.btn.don
 /*.progress-flex .check-mark{
 color:#8392e3 !important;
 }
+*button down*/
+
+/*.team-donate-btn{
+    border-radius: 25px !important;
+    background: #e94a4a !important;
+}
+.team-donate-btn:hover{
+    background: #e94a4a !important;
+}
+
+/*team name*/
+.team-members .team-header{
+    color:#40120D !important;
+}
+
+/*donation*/
+  /*donor name*/
+  /*.donate-members .donates_user .left_userd .user-name{
+    color:#40120D !important;
+}
+/*flag*/
+.donate-members .donates_user .donate-A{
+    background:#40120D !important;
+}
+.donate-members .donates_user .donate-A::before{
+    border-bottom: 7px solid #40120D !important;
+}
+.donate-members .donates_user .donate-A .donate-triangle{
+    border-right:26px solid #40120D !important;
+}
+
 
 
     
