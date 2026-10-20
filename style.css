@@ -378,10 +378,11 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
 /*teams*/
 
 /*donor,teams and about*/
-/*.donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-link{
+.donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-link{
     color: #fff !important;;
     
 }
+/*
 .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-item:hover .nav-link{
     border-bottom: 3px solid #fff !important;
 }
@@ -400,10 +401,11 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
     color:#8392e3 !important;
 }
  /*be the first button*/
- /*#temporaryDonateButton{
+ #temporaryDonateButton{
     background:#fff !important;
     border-radius: 25px !important;
-    color:#353a59 !important;
+    color:#40120D!important;
+    text-transform: capitalize !important;
 }
 
 /*round search and sort by*/
