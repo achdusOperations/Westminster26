@@ -311,73 +311,7 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
             display:none !important;
         }
     
-        /*if there are matchers*/
-    
-        /*section*/
-      /*  .fs-matchers{
-            background:#FFF !important;
-            border-bottom: none !important;
-        }
-    
-        /*"Every $=*/
-       /* .fs-matchers .fs-matchers-intro strong{
-            color:#601812 !important;
-            font-style:italic !important;
-        }
-        .fs-matchers .fs-matchers-intro span:nth-child(2){
-            color:#101d5f !important;
-            font-style: italic !important;
-        }
-    /*circle*/
-       /* .fs-matchers .fs-matcher .fs-matcher-image .fs-image-wrap-ratio::after{
-            box-shadow:inset 0 0 0 2px #601812 !important;
-        }
-       
-       
-        .fs-matchers .fs-matcher .fs-matcher-title{
-            font-size: 24px !important;
-            color: #601812 !important;
-            font-weight: bold !important;
-        }
-        .fs-matchers .fs-matcher .fs-matcher-subtitle{
-            font-size: 16px !important;
-            font-weight: bold !important;
-        }
-           /*donors buttons on separate lines. width is 100% divided by amount of matching categories (if more than 4 do 33%) in chabadone between matchers write </br*/
-         /*  .fs-matchers .fs-matcher  {
-            width:33%;
-            padding-left:0px !important;
-            padding-right:0px !important;
-          }
-          @media (max-width: 991px){
-            .fs-matchers .fs-matcher{
-              width:100%;
-            }
-          }
-    
-    
-    
-      /*lengthen campaign*/    
-   /*   h3.fs-countdown-message::after{
-        content:"The campaign will remain open until we hit our goal." !important;
-        color:#fff;
-        visibility: visible !important;
-        position:absolute !important;
-        top:26px !important;
-        left:0 !important;
-      }
-      .fs-countdown .fs-countdown-widget .fs-countdown-unit .fs-countdown-description{
-        display:none !important;
-    }
-    h3.fs-countdown-message {
-     visibility:hidden !important;
-       position:relative !important;
-    } 
-    .fs-countdown-number, .fs-countdown-sep{
-        display:none !important;
-      }
-*/
-
+        
 /*teams*/
 
 /*donor,teams and about*/
@@ -426,24 +360,20 @@ margin-left:2px !important;
 
 
 /*left button*/
-/*a.view-btn.btn.js-team-detail, a.view-btn.btn.js-team-detail:hover {
-    background:#353a59 !important;
+a.view-btn.btn.js-team-detail, a.view-btn.btn.js-team-detail:hover {
+    background:#F27613 !important;
     border-radius: 25px !important;
     color:#fff !important;
 }
 /*right button*/
-/*a.view-btn.btn.donate-btns.js-team-open-donate.common-donate, a.view-btn.btn.donate-btns.js-team-open-donate.common-donate:hover{
-    background:#353a59 !important;
+a.view-btn.btn.donate-btns.js-team-open-donate.common-donate, a.view-btn.btn.donate-btns.js-team-open-donate.common-donate:hover{
+    background:#40120D !important;
     border-radius: 25px !important;
     color:#fff !important;
 }
 /*filler filled and not filled*/
-/*.progress-flex .progress .progress-bar{
-    background: #27365b !important;
-}
-
-.progress-flex .progress{
-    background: linear-gradient(90deg,rgba(235, 95, 168, 1) 0%, rgba(249, 185, 183, 1) 33%, rgba(197, 141, 214, 1) 66%, rgba(131, 146, 227, 1) 100%) !important;
+.progress-flex .progress .progress-bar{
+    background: #F27613;
 }
 
 
