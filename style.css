@@ -379,10 +379,10 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
 
 /*donor,teams and about*/
 
-.donar-section .nav-tabs .nav-item.active{
+.donar-section .nav-tabs .nav-item.active .nav-link{
     color:#40120D !important;
 }
- .donar-section .nav-tabs .nav-link{
+.donar-section .nav-tabs .nav-link{
     color: #fff !important;
     
 }
