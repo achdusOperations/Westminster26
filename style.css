@@ -430,12 +430,12 @@ color:#40120D !important;
   
 
     /*"Every $=*/
-   /* .fs-matchers .fs-matchers-intro strong{
-        color:#fe3f38 !important;
+    .fs-matchers .fs-matchers-intro strong{
+        color:#40120D !important;
         font-style:italic !important;
     }
     .fs-matchers .fs-matchers-intro span:nth-child(2){
-        color:#101d5f !important;
+        color:#40120D !important;
         font-style: italic !important;
     }
 /*circle*/
