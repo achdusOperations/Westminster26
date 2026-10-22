@@ -430,7 +430,7 @@ color:#40120D !important;
   
 
     /*"Every $=*/
-    .fs-matchers .fs-matchers-intro strong{
+    /*.fs-matchers .fs-matchers-intro strong{
         color:#40120D !important;
         font-style:italic !important;
     }
