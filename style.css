@@ -439,12 +439,12 @@ color:#40120D !important;
         font-style: italic !important;
     }
 /*circle*/
-   /* .fs-matchers .fs-matcher .fs-matcher-image .fs-image-wrap-ratio::after{
-        box-shadow:inset 0 0 0 2px #fe3f38 !important;
+    .fs-matchers .fs-matcher .fs-matcher-image .fs-image-wrap-ratio::after{
+        box-shadow:none !important;
     }
    
    
-    .fs-matchers .fs-matcher .fs-matcher-title{
+   /* .fs-matchers .fs-matcher .fs-matcher-title{
         font-size: 24px !important;
         color: #fe3f38 !important;
         font-weight: bold !important;
