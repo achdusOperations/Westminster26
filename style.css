@@ -301,7 +301,7 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
             }
         }
         /*if there are no matchers*/
-        .fs-matchers .fs-matcher .fs-matcher-image{
+        /*.fs-matchers .fs-matcher .fs-matcher-image{
        display:none !important;
         }
         .fs-matchers .fs-matcher .fs-matcher-title{
