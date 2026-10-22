@@ -282,25 +282,7 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
     display:none !important;
 }
 
-    /*hide the double your impact at the top*/
-    /*h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
-        display:none !important;
-    }
-        /*matchers even if there aren't any*/
-        .container-fluid.fs-matchers{
-            background:#FFF !important;
-            border-bottom: 1px solid #FFF !important;
-        }
-        .fs-matchers .fs-matchers-intro strong{
-            color:#353a59 !important;
-        }
-        @media(max-width:991px){
-            .fs-campaign-info{
-                background-color: #fff !important;
-                border-bottom: #FFF !important;
-            }
-        }
-    
+ 
         
 /*teams*/
 
@@ -424,11 +406,28 @@ color:#40120D !important;
 
 /*matchers*/
 
-       /*section*/
-  /*  .fs-matchers{
-        background:#FFF !important;
-        border-bottom: none !important;
+   /*hide the double your impact at the top*/
+    h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
+        display:none !important;
     }
+        /*matchers even if there aren't any*/
+        .container-fluid.fs-matchers{
+            background:#FFF !important;
+            border-bottom: 1px solid #FFF !important;
+        }
+        .fs-matchers .fs-matchers-intro strong{
+            color:#353a59 !important;
+        }
+        @media(max-width:991px){
+            .fs-campaign-info{
+                background-color: #fff !important;
+                border-bottom: #FFF !important;
+            }
+        }
+    
+
+       /*section*/
+  
 
     /*"Every $=*/
    /* .fs-matchers .fs-matchers-intro strong{
@@ -455,8 +454,8 @@ color:#40120D !important;
         font-weight: bold !important;
     }
        /*donors buttons on separate lines. width is 100% divided by amount of matching categories (if more than 4 do 33%) in chabadone between matchers write </br*/
-     /*  .fs-matchers .fs-matcher  {
-        width:33%;
+      .fs-matchers .fs-matcher  {
+        width:100%;
         padding-left:0px !important;
         padding-right:0px !important;
       }
