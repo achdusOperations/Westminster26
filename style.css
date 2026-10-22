@@ -467,15 +467,17 @@ color:#40120D !important;
 
 
     
-    /*donation special*/
-
+ /* Custom payment message */
 #CustomPaymentMessage .form-group {
-    white-space: pre-line !important;
+    white-space: pre-wrap !important;
     line-height: 1.8 !important;
+    font-size: 15px !important;
+    overflow-wrap: anywhere;
 }
 
+/* Existing links */
 #CustomPaymentMessage a {
     color: #0066cc !important;
     text-decoration: underline !important;
-    font-weight: 600;
+    font-weight: 600 !important;
 }
