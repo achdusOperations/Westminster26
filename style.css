@@ -346,9 +346,10 @@ a.view-btn.btn.donate-btns.js-team-open-donate.common-donate, a.view-btn.btn.don
     border-radius: 25px !important;
     color:#fff !important;
 }
-/*filler filled and not filled*/
+/*filler filled*/
 .progress-flex .progress .progress-bar{
     background: #F27613;
+    background: linear-gradient(90deg, rgba(242, 118, 19, 1) 0%, rgba(64, 18, 13, 1) 100%);
 }
 
 /*text*/
