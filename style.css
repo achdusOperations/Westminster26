@@ -278,12 +278,12 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
         width:100%;
     }
 /*bonus round*/
-.fs-bonus-badge{
+/*.fs-bonus-badge{
     display:none !important;
 }
 
     /*hide the double your impact at the top*/
-    h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
+    /*h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
         display:none !important;
     }
         /*matchers even if there aren't any*/
@@ -299,16 +299,6 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
                 background-color: #fff !important;
                 border-bottom: #FFF !important;
             }
-        }
-        /*if there are no matchers*/
-        /*.fs-matchers .fs-matcher .fs-matcher-image{
-       display:none !important;
-        }
-        .fs-matchers .fs-matcher .fs-matcher-title{
-         display:none !important;
-        }
-        h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
-            display:none !important;
         }
     
         
@@ -432,9 +422,50 @@ color:#40120D !important;
     border-right:26px solid #40120D !important;
 }
 
+/*matchers*/
 
+       /*section*/
+  /*  .fs-matchers{
+        background:#FFF !important;
+        border-bottom: none !important;
+    }
 
-    
+    /*"Every $=*/
+   /* .fs-matchers .fs-matchers-intro strong{
+        color:#fe3f38 !important;
+        font-style:italic !important;
+    }
+    .fs-matchers .fs-matchers-intro span:nth-child(2){
+        color:#101d5f !important;
+        font-style: italic !important;
+    }
+/*circle*/
+   /* .fs-matchers .fs-matcher .fs-matcher-image .fs-image-wrap-ratio::after{
+        box-shadow:inset 0 0 0 2px #fe3f38 !important;
+    }
+   
+   
+    .fs-matchers .fs-matcher .fs-matcher-title{
+        font-size: 24px !important;
+        color: #fe3f38 !important;
+        font-weight: bold !important;
+    }
+    .fs-matchers .fs-matcher .fs-matcher-subtitle{
+        font-size: 16px !important;
+        font-weight: bold !important;
+    }
+       /*donors buttons on separate lines. width is 100% divided by amount of matching categories (if more than 4 do 33%) in chabadone between matchers write </br*/
+     /*  .fs-matchers .fs-matcher  {
+        width:33%;
+        padding-left:0px !important;
+        padding-right:0px !important;
+      }
+      @media (max-width: 991px){
+        .fs-matchers .fs-matcher{
+          width:100%;
+        }
+      }
+
 
     
     
