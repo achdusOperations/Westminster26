@@ -467,4 +467,15 @@ color:#40120D !important;
 
 
     
-    
+    /*donation special*/
+
+#CustomPaymentMessage .form-group {
+    white-space: pre-line !important;
+    line-height: 1.8 !important;
+}
+
+#CustomPaymentMessage a {
+    color: #0066cc !important;
+    text-decoration: underline !important;
+    font-weight: 600;
+}
