@@ -283,7 +283,19 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
         width:100%;
     }
 /*bonus round*/
-/*.fs-bonus-badge{
+.fs-bonus-badge{
+    display:none !important;
+}
+.fs-bonus .fs-goal .fs-bonus-goal{
+    color:#F27613 !important;
+}
+.fs-bonus .fs-goal .fs-original-goal:before{
+    background:#F27613 !important;
+}
+.fs-goal .fs-goal-graph-container .fs-goal-graph .fs-goal-graph-fill .fs-goal-graph-fill-bonus{
+    background: #F27613 !important;
+}
+.fs-goal-graph-star-container .glyphicon{
     display:none !important;
 }
 
