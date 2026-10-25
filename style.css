@@ -450,8 +450,13 @@ color:#40120D !important;
     }
    
    
-    .fs-matchers .fs-matcher .fs-matcher-title, .fs-matchers .fs-matcher .fs-matcher-subtitle{
+    .fs-matchers .fs-matcher .fs-matcher-title{
         /*font-size: 24px !important;*/
+        color: #40120D !important;
+        font-weight: bold !important;
+    }
+    .fs-matchers .fs-matcher .fs-matcher-subtitle{
+        font-size:18px !important;
         color: #40120D !important;
         font-weight: bold !important;
     }
