@@ -368,6 +368,10 @@ a.view-btn.btn.donate-btns.js-team-open-donate.common-donate, a.view-btn.btn.don
     background: #F27613;
     background: linear-gradient(90deg, rgba(242, 118, 19, 1) 0%, rgba(64, 18, 13, 1) 100%);
 }
+/*Progress Bar once goal attained*/
+.progress-flex .extra-bar{
+    background: #f27613 !important;
+}
 
 /*text*/
 .team-members .team-users .donor-team span, .progress-flex .S-label span{
