@@ -81,7 +81,7 @@ background:#FFF !important ;
 }
 /*goal meter  filled and then not filled*/
 .fs-goal-graph-fill{
-    background: #fea146 !important;
+    background: linear-gradient(90deg, rgba(242, 118, 19, 1) 0%, rgba(64, 18, 13, 1) 100%) !important;
 }
 .fs-goal-graph{
     background: #F27613 !important;
