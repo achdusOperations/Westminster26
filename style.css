@@ -509,14 +509,21 @@ color:#40120D !important;
 /*change order of buttons in hero*/
 @media (max-width: 767px) {
     .donate-flex {
-      position: relative;
-      transform: translateY(30px);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      transform: translateY(60px);
+    }
+  
+    .donate-flex .btn-play-video {
+      order: 1;
+    }
+  
+    .donate-flex .about-modal-btn {
+      order: 2;
     }
   
     .donate-flex .donate-button:not(.about-modal-btn) {
-      position: absolute;
-     top:95%;
-      left: 40%;
-      transform: translateX(-50%);
+      order: 3;
     }
   }
